@@ -1,0 +1,191 @@
+[
+  {
+    "date": "2025-01-23T23:19:43.454Z",
+    "exactDate": "2025-01-23T23:19:43.454Z",
+    "vacancy": "React",
+    "experience": "between1And3",
+    "vacancyCount": 1006
+  },
+  {
+    "date": "2025-01-23T23:19:43.454Z",
+    "exactDate": "2025-01-23T23:19:44.698Z",
+    "vacancy": "Vue",
+    "experience": "between1And3",
+    "vacancyCount": 766
+  },
+  {
+    "date": "2025-01-23T23:19:43.454Z",
+    "exactDate": "2025-01-23T23:19:45.820Z",
+    "vacancy": "Angular",
+    "experience": "between1And3",
+    "vacancyCount": 607
+  },
+  {
+    "date": "2025-01-23T23:21:45.085Z",
+    "exactDate": "2025-01-23T23:21:45.085Z",
+    "vacancy": "React",
+    "experience": "between1And3",
+    "vacancyCount": 1187
+  },
+  {
+    "date": "2025-01-23T23:21:45.085Z",
+    "exactDate": "2025-01-23T23:21:46.343Z",
+    "vacancy": "Vue",
+    "experience": "between1And3",
+    "vacancyCount": 732
+  },
+  {
+    "date": "2025-01-23T23:21:45.085Z",
+    "exactDate": "2025-01-23T23:21:47.459Z",
+    "vacancy": "Angular",
+    "experience": "between1And3",
+    "vacancyCount": 556
+  },
+  {
+    "date": "2025-01-23T23:22:15.255Z",
+    "exactDate": "2025-01-23T23:22:15.255Z",
+    "vacancy": "React",
+    "experience": "between1And3",
+    "vacancyCount": 1465
+  },
+  {
+    "date": "2025-01-23T23:22:15.255Z",
+    "exactDate": "2025-01-23T23:22:16.482Z",
+    "vacancy": "Vue",
+    "experience": "between1And3",
+    "vacancyCount": 1243
+  },
+  {
+    "date": "2025-01-23T23:22:15.255Z",
+    "exactDate": "2025-01-23T23:22:17.594Z",
+    "vacancy": "Angular",
+    "experience": "between1And3",
+    "vacancyCount": 542
+  },
+  {
+    "date": "2025-01-23T23:23:21.186Z",
+    "exactDate": "2025-01-23T23:23:21.186Z",
+    "vacancy": "React",
+    "experience": "between1And3",
+    "vacancyCount": 1478
+  },
+  {
+    "date": "2025-01-23T23:23:21.186Z",
+    "exactDate": "2025-01-23T23:23:22.460Z",
+    "vacancy": "Vue",
+    "experience": "between1And3",
+    "vacancyCount": 789
+  },
+  {
+    "date": "2025-01-23T23:23:21.186Z",
+    "exactDate": "2025-01-23T23:23:23.600Z",
+    "vacancy": "Angular",
+    "experience": "between1And3",
+    "vacancyCount": 721
+  },
+  {
+    "date": "2025-01-23T23:27:24.875Z",
+    "exactDate": "2025-01-23T23:27:24.875Z",
+    "vacancy": "React",
+    "experience": "between1And3",
+    "vacancyCount": 1422
+  },
+  {
+    "date": "2025-01-23T23:27:24.875Z",
+    "exactDate": "2025-01-23T23:27:26.112Z",
+    "vacancy": "Vue",
+    "experience": "between1And3",
+    "vacancyCount": 1232
+  },
+  {
+    "date": "2025-01-23T23:27:24.875Z",
+    "exactDate": "2025-01-23T23:27:27.244Z",
+    "vacancy": "Angular",
+    "experience": "between1And3",
+    "vacancyCount": 1191
+  },
+  {
+    "date": "2025-01-23T23:29:12.366Z",
+    "exactDate": "2025-01-23T23:29:12.366Z",
+    "vacancy": "React",
+    "experience": "between1And3",
+    "vacancyCount": 1694
+  },
+  {
+    "date": "2025-01-23T23:29:12.366Z",
+    "exactDate": "2025-01-23T23:29:13.605Z",
+    "vacancy": "Vue",
+    "experience": "between1And3",
+    "vacancyCount": 1240
+  },
+  {
+    "date": "2025-01-23T23:29:12.366Z",
+    "exactDate": "2025-01-23T23:29:14.745Z",
+    "vacancy": "Angular",
+    "experience": "between1And3",
+    "vacancyCount": 1028
+  },
+  {
+    "date": "2025-01-23T23:30:14.698Z",
+    "exactDate": "2025-01-23T23:30:14.698Z",
+    "vacancy": "React",
+    "experience": "between1And3",
+    "vacancyCount": 919
+  },
+  {
+    "date": "2025-01-23T23:30:14.698Z",
+    "exactDate": "2025-01-23T23:30:15.921Z",
+    "vacancy": "Vue",
+    "experience": "between1And3",
+    "vacancyCount": 975
+  },
+  {
+    "date": "2025-01-23T23:30:14.698Z",
+    "exactDate": "2025-01-23T23:30:17.059Z",
+    "vacancy": "Angular",
+    "experience": "between1And3",
+    "vacancyCount": 512
+  },
+  {
+    "date": "2025-01-23T23:36:27.327Z",
+    "exactDate": "2025-01-23T23:36:27.327Z",
+    "vacancy": "React",
+    "experience": "between1And3",
+    "vacancyCount": 911
+  },
+  {
+    "date": "2025-01-23T23:36:27.327Z",
+    "exactDate": "2025-01-23T23:36:30.736Z",
+    "vacancy": "Vue",
+    "experience": "between1And3",
+    "vacancyCount": 1545
+  },
+  {
+    "date": "2025-01-23T23:36:27.327Z",
+    "exactDate": "2025-01-23T23:36:32.929Z",
+    "vacancy": "Angular",
+    "experience": "between1And3",
+    "vacancyCount": 898
+  },
+  {
+    "date": "2025-01-24T00:02:10.241Z",
+    "exactDate": "2025-01-24T00:02:10.241Z",
+    "vacancy": "React",
+    "experience": "between1And3",
+    "vacancyCount": 1182
+  },
+  {
+    "date": "2025-01-24T00:02:10.241Z",
+    "exactDate": "2025-01-24T00:02:11.488Z",
+    "vacancy": "Vue",
+    "experience": "between1And3",
+    "vacancyCount": 796
+  },
+  {
+    "date": "2025-01-24T00:02:10.241Z",
+    "exactDate": "2025-01-24T00:02:12.608Z",
+    "vacancy": "Angular",
+    "experience": "between1And3",
+    "vacancyCount": 773
+  }
+]

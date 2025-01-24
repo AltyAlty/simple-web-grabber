@@ -1,0 +1,380 @@
+[
+  {
+    "date": "2025-01-23T23:19:49.220Z",
+    "exactDate": "2025-01-23T23:19:49.220Z",
+    "vacancy": "JavaScript",
+    "experience": "between1And3",
+    "vacancyCount": 3448
+  },
+  {
+    "date": "2025-01-23T23:19:49.220Z",
+    "exactDate": "2025-01-23T23:19:50.363Z",
+    "vacancy": "TypeScript",
+    "experience": "between1And3",
+    "vacancyCount": 1208
+  },
+  {
+    "date": "2025-01-23T23:19:49.220Z",
+    "exactDate": "2025-01-23T23:19:51.487Z",
+    "vacancy": "C#",
+    "experience": "between1And3",
+    "vacancyCount": 1852
+  },
+  {
+    "date": "2025-01-23T23:19:49.220Z",
+    "exactDate": "2025-01-23T23:19:52.608Z",
+    "vacancy": "Java",
+    "experience": "between1And3",
+    "vacancyCount": 2359
+  },
+  {
+    "date": "2025-01-23T23:19:49.220Z",
+    "exactDate": "2025-01-23T23:19:53.727Z",
+    "vacancy": "C++",
+    "experience": "between1And3",
+    "vacancyCount": 1877
+  },
+  {
+    "date": "2025-01-23T23:19:49.220Z",
+    "exactDate": "2025-01-23T23:19:54.852Z",
+    "vacancy": "Python",
+    "experience": "between1And3",
+    "vacancyCount": 4843
+  },
+  {
+    "date": "2025-01-23T23:21:51.344Z",
+    "exactDate": "2025-01-23T23:21:51.344Z",
+    "vacancy": "JavaScript",
+    "experience": "between1And3",
+    "vacancyCount": 2602
+  },
+  {
+    "date": "2025-01-23T23:21:51.344Z",
+    "exactDate": "2025-01-23T23:21:52.472Z",
+    "vacancy": "TypeScript",
+    "experience": "between1And3",
+    "vacancyCount": 1469
+  },
+  {
+    "date": "2025-01-23T23:21:51.344Z",
+    "exactDate": "2025-01-23T23:21:53.593Z",
+    "vacancy": "C#",
+    "experience": "between1And3",
+    "vacancyCount": 1263
+  },
+  {
+    "date": "2025-01-23T23:21:51.344Z",
+    "exactDate": "2025-01-23T23:21:54.831Z",
+    "vacancy": "Java",
+    "experience": "between1And3",
+    "vacancyCount": 1685
+  },
+  {
+    "date": "2025-01-23T23:21:51.344Z",
+    "exactDate": "2025-01-23T23:21:55.972Z",
+    "vacancy": "C++",
+    "experience": "between1And3",
+    "vacancyCount": 1539
+  },
+  {
+    "date": "2025-01-23T23:21:51.344Z",
+    "exactDate": "2025-01-23T23:21:57.153Z",
+    "vacancy": "Python",
+    "experience": "between1And3",
+    "vacancyCount": 4881
+  },
+  {
+    "date": "2025-01-23T23:22:20.960Z",
+    "exactDate": "2025-01-23T23:22:20.960Z",
+    "vacancy": "JavaScript",
+    "experience": "between1And3",
+    "vacancyCount": 3429
+  },
+  {
+    "date": "2025-01-23T23:22:20.960Z",
+    "exactDate": "2025-01-23T23:22:22.084Z",
+    "vacancy": "TypeScript",
+    "experience": "between1And3",
+    "vacancyCount": 1302
+  },
+  {
+    "date": "2025-01-23T23:22:20.960Z",
+    "exactDate": "2025-01-23T23:22:23.224Z",
+    "vacancy": "C#",
+    "experience": "between1And3",
+    "vacancyCount": 1513
+  },
+  {
+    "date": "2025-01-23T23:22:20.960Z",
+    "exactDate": "2025-01-23T23:22:24.355Z",
+    "vacancy": "Java",
+    "experience": "between1And3",
+    "vacancyCount": 1617
+  },
+  {
+    "date": "2025-01-23T23:22:20.960Z",
+    "exactDate": "2025-01-23T23:22:25.484Z",
+    "vacancy": "C++",
+    "experience": "between1And3",
+    "vacancyCount": 1435
+  },
+  {
+    "date": "2025-01-23T23:22:20.960Z",
+    "exactDate": "2025-01-23T23:22:26.604Z",
+    "vacancy": "Python",
+    "experience": "between1And3",
+    "vacancyCount": 4403
+  },
+  {
+    "date": "2025-01-23T23:23:27.006Z",
+    "exactDate": "2025-01-23T23:23:27.006Z",
+    "vacancy": "JavaScript",
+    "experience": "between1And3",
+    "vacancyCount": 3024
+  },
+  {
+    "date": "2025-01-23T23:23:27.006Z",
+    "exactDate": "2025-01-23T23:23:28.121Z",
+    "vacancy": "TypeScript",
+    "experience": "between1And3",
+    "vacancyCount": 1025
+  },
+  {
+    "date": "2025-01-23T23:23:27.006Z",
+    "exactDate": "2025-01-23T23:23:29.260Z",
+    "vacancy": "C#",
+    "experience": "between1And3",
+    "vacancyCount": 1188
+  },
+  {
+    "date": "2025-01-23T23:23:27.006Z",
+    "exactDate": "2025-01-23T23:23:30.410Z",
+    "vacancy": "Java",
+    "experience": "between1And3",
+    "vacancyCount": 1933
+  },
+  {
+    "date": "2025-01-23T23:23:27.006Z",
+    "exactDate": "2025-01-23T23:23:31.525Z",
+    "vacancy": "C++",
+    "experience": "between1And3",
+    "vacancyCount": 1741
+  },
+  {
+    "date": "2025-01-23T23:23:27.006Z",
+    "exactDate": "2025-01-23T23:23:32.660Z",
+    "vacancy": "Python",
+    "experience": "between1And3",
+    "vacancyCount": 4258
+  },
+  {
+    "date": "2025-01-23T23:27:30.674Z",
+    "exactDate": "2025-01-23T23:27:30.674Z",
+    "vacancy": "JavaScript",
+    "experience": "between1And3",
+    "vacancyCount": 2605
+  },
+  {
+    "date": "2025-01-23T23:27:30.674Z",
+    "exactDate": "2025-01-23T23:27:31.794Z",
+    "vacancy": "TypeScript",
+    "experience": "between1And3",
+    "vacancyCount": 1443
+  },
+  {
+    "date": "2025-01-23T23:27:30.674Z",
+    "exactDate": "2025-01-23T23:27:32.924Z",
+    "vacancy": "C#",
+    "experience": "between1And3",
+    "vacancyCount": 1591
+  },
+  {
+    "date": "2025-01-23T23:27:30.674Z",
+    "exactDate": "2025-01-23T23:27:34.184Z",
+    "vacancy": "Java",
+    "experience": "between1And3",
+    "vacancyCount": 1757
+  },
+  {
+    "date": "2025-01-23T23:27:30.674Z",
+    "exactDate": "2025-01-23T23:27:35.324Z",
+    "vacancy": "C++",
+    "experience": "between1And3",
+    "vacancyCount": 1629
+  },
+  {
+    "date": "2025-01-23T23:27:30.674Z",
+    "exactDate": "2025-01-23T23:27:36.474Z",
+    "vacancy": "Python",
+    "experience": "between1And3",
+    "vacancyCount": 4193
+  },
+  {
+    "date": "2025-01-23T23:29:18.225Z",
+    "exactDate": "2025-01-23T23:29:18.225Z",
+    "vacancy": "JavaScript",
+    "experience": "between1And3",
+    "vacancyCount": 2793
+  },
+  {
+    "date": "2025-01-23T23:29:18.225Z",
+    "exactDate": "2025-01-23T23:29:19.394Z",
+    "vacancy": "TypeScript",
+    "experience": "between1And3",
+    "vacancyCount": 1052
+  },
+  {
+    "date": "2025-01-23T23:29:18.225Z",
+    "exactDate": "2025-01-23T23:29:20.534Z",
+    "vacancy": "C#",
+    "experience": "between1And3",
+    "vacancyCount": 1523
+  },
+  {
+    "date": "2025-01-23T23:29:18.225Z",
+    "exactDate": "2025-01-23T23:29:21.665Z",
+    "vacancy": "Java",
+    "experience": "between1And3",
+    "vacancyCount": 2160
+  },
+  {
+    "date": "2025-01-23T23:29:18.225Z",
+    "exactDate": "2025-01-23T23:29:22.805Z",
+    "vacancy": "C++",
+    "experience": "between1And3",
+    "vacancyCount": 2163
+  },
+  {
+    "date": "2025-01-23T23:29:18.225Z",
+    "exactDate": "2025-01-23T23:29:23.945Z",
+    "vacancy": "Python",
+    "experience": "between1And3",
+    "vacancyCount": 4514
+  },
+  {
+    "date": "2025-01-23T23:30:20.449Z",
+    "exactDate": "2025-01-23T23:30:20.449Z",
+    "vacancy": "JavaScript",
+    "experience": "between1And3",
+    "vacancyCount": 3428
+  },
+  {
+    "date": "2025-01-23T23:30:20.449Z",
+    "exactDate": "2025-01-23T23:30:21.554Z",
+    "vacancy": "TypeScript",
+    "experience": "between1And3",
+    "vacancyCount": 1381
+  },
+  {
+    "date": "2025-01-23T23:30:20.449Z",
+    "exactDate": "2025-01-23T23:30:22.672Z",
+    "vacancy": "C#",
+    "experience": "between1And3",
+    "vacancyCount": 1033
+  },
+  {
+    "date": "2025-01-23T23:30:20.449Z",
+    "exactDate": "2025-01-23T23:30:23.955Z",
+    "vacancy": "Java",
+    "experience": "between1And3",
+    "vacancyCount": 1676
+  },
+  {
+    "date": "2025-01-23T23:30:20.449Z",
+    "exactDate": "2025-01-23T23:30:25.088Z",
+    "vacancy": "C++",
+    "experience": "between1And3",
+    "vacancyCount": 1766
+  },
+  {
+    "date": "2025-01-23T23:30:20.449Z",
+    "exactDate": "2025-01-23T23:30:26.218Z",
+    "vacancy": "Python",
+    "experience": "between1And3",
+    "vacancyCount": 4549
+  },
+  {
+    "date": "2025-01-23T23:36:41.911Z",
+    "exactDate": "2025-01-23T23:36:41.911Z",
+    "vacancy": "JavaScript",
+    "experience": "between1And3",
+    "vacancyCount": 2739
+  },
+  {
+    "date": "2025-01-23T23:36:41.911Z",
+    "exactDate": "2025-01-23T23:36:45.445Z",
+    "vacancy": "TypeScript",
+    "experience": "between1And3",
+    "vacancyCount": 1637
+  },
+  {
+    "date": "2025-01-23T23:36:41.911Z",
+    "exactDate": "2025-01-23T23:36:47.675Z",
+    "vacancy": "C#",
+    "experience": "between1And3",
+    "vacancyCount": 1152
+  },
+  {
+    "date": "2025-01-23T23:36:41.911Z",
+    "exactDate": "2025-01-23T23:36:50.078Z",
+    "vacancy": "Java",
+    "experience": "between1And3",
+    "vacancyCount": 2329
+  },
+  {
+    "date": "2025-01-23T23:36:41.911Z",
+    "exactDate": "2025-01-23T23:36:52.319Z",
+    "vacancy": "C++",
+    "experience": "between1And3",
+    "vacancyCount": 1925
+  },
+  {
+    "date": "2025-01-23T23:36:41.911Z",
+    "exactDate": "2025-01-23T23:36:54.794Z",
+    "vacancy": "Python",
+    "experience": "between1And3",
+    "vacancyCount": 4650
+  },
+  {
+    "date": "2025-01-24T00:02:15.998Z",
+    "exactDate": "2025-01-24T00:02:15.998Z",
+    "vacancy": "JavaScript",
+    "experience": "between1And3",
+    "vacancyCount": 3074
+  },
+  {
+    "date": "2025-01-24T00:02:15.998Z",
+    "exactDate": "2025-01-24T00:02:17.188Z",
+    "vacancy": "TypeScript",
+    "experience": "between1And3",
+    "vacancyCount": 974
+  },
+  {
+    "date": "2025-01-24T00:02:15.998Z",
+    "exactDate": "2025-01-24T00:02:18.316Z",
+    "vacancy": "C#",
+    "experience": "between1And3",
+    "vacancyCount": 1054
+  },
+  {
+    "date": "2025-01-24T00:02:15.998Z",
+    "exactDate": "2025-01-24T00:02:19.468Z",
+    "vacancy": "Java",
+    "experience": "between1And3",
+    "vacancyCount": 2125
+  },
+  {
+    "date": "2025-01-24T00:02:15.998Z",
+    "exactDate": "2025-01-24T00:02:20.618Z",
+    "vacancy": "C++",
+    "experience": "between1And3",
+    "vacancyCount": 2107
+  },
+  {
+    "date": "2025-01-24T00:02:15.998Z",
+    "exactDate": "2025-01-24T00:02:21.778Z",
+    "vacancy": "Python",
+    "experience": "between1And3",
+    "vacancyCount": 4464
+  }
+]

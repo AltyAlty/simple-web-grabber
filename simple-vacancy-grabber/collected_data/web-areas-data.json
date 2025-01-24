@@ -1,0 +1,128 @@
+[
+  {
+    "date": "2025-01-23T23:19:46.957Z",
+    "exactDate": "2025-01-23T23:19:46.957Z",
+    "vacancy": "Frontend",
+    "experience": "between1And3",
+    "vacancyCount": 1532
+  },
+  {
+    "date": "2025-01-23T23:19:46.957Z",
+    "exactDate": "2025-01-23T23:19:48.077Z",
+    "vacancy": "Backend",
+    "experience": "between1And3",
+    "vacancyCount": 2117
+  },
+  {
+    "date": "2025-01-23T23:21:48.593Z",
+    "exactDate": "2025-01-23T23:21:48.593Z",
+    "vacancy": "Frontend",
+    "experience": "between1And3",
+    "vacancyCount": 1725
+  },
+  {
+    "date": "2025-01-23T23:21:48.593Z",
+    "exactDate": "2025-01-23T23:21:49.709Z",
+    "vacancy": "Backend",
+    "experience": "between1And3",
+    "vacancyCount": 2120
+  },
+  {
+    "date": "2025-01-23T23:22:18.715Z",
+    "exactDate": "2025-01-23T23:22:18.715Z",
+    "vacancy": "Frontend",
+    "experience": "between1And3",
+    "vacancyCount": 1889
+  },
+  {
+    "date": "2025-01-23T23:22:18.715Z",
+    "exactDate": "2025-01-23T23:22:19.829Z",
+    "vacancy": "Backend",
+    "experience": "between1And3",
+    "vacancyCount": 1746
+  },
+  {
+    "date": "2025-01-23T23:23:24.720Z",
+    "exactDate": "2025-01-23T23:23:24.720Z",
+    "vacancy": "Frontend",
+    "experience": "between1And3",
+    "vacancyCount": 1683
+  },
+  {
+    "date": "2025-01-23T23:23:24.720Z",
+    "exactDate": "2025-01-23T23:23:25.880Z",
+    "vacancy": "Backend",
+    "experience": "between1And3",
+    "vacancyCount": 1688
+  },
+  {
+    "date": "2025-01-23T23:27:28.404Z",
+    "exactDate": "2025-01-23T23:27:28.404Z",
+    "vacancy": "Frontend",
+    "experience": "between1And3",
+    "vacancyCount": 1580
+  },
+  {
+    "date": "2025-01-23T23:27:28.404Z",
+    "exactDate": "2025-01-23T23:27:29.524Z",
+    "vacancy": "Backend",
+    "experience": "between1And3",
+    "vacancyCount": 2092
+  },
+  {
+    "date": "2025-01-23T23:29:15.855Z",
+    "exactDate": "2025-01-23T23:29:15.855Z",
+    "vacancy": "Frontend",
+    "experience": "between1And3",
+    "vacancyCount": 1519
+  },
+  {
+    "date": "2025-01-23T23:29:15.855Z",
+    "exactDate": "2025-01-23T23:29:16.995Z",
+    "vacancy": "Backend",
+    "experience": "between1And3",
+    "vacancyCount": 1912
+  },
+  {
+    "date": "2025-01-23T23:30:18.199Z",
+    "exactDate": "2025-01-23T23:30:18.199Z",
+    "vacancy": "Frontend",
+    "experience": "between1And3",
+    "vacancyCount": 1505
+  },
+  {
+    "date": "2025-01-23T23:30:18.199Z",
+    "exactDate": "2025-01-23T23:30:19.318Z",
+    "vacancy": "Backend",
+    "experience": "between1And3",
+    "vacancyCount": 2431
+  },
+  {
+    "date": "2025-01-23T23:36:35.617Z",
+    "exactDate": "2025-01-23T23:36:35.617Z",
+    "vacancy": "Frontend",
+    "experience": "between1And3",
+    "vacancyCount": 1668
+  },
+  {
+    "date": "2025-01-23T23:36:35.617Z",
+    "exactDate": "2025-01-23T23:36:39.145Z",
+    "vacancy": "Backend",
+    "experience": "between1And3",
+    "vacancyCount": 1866
+  },
+  {
+    "date": "2025-01-24T00:02:13.734Z",
+    "exactDate": "2025-01-24T00:02:13.734Z",
+    "vacancy": "Frontend",
+    "experience": "between1And3",
+    "vacancyCount": 2096
+  },
+  {
+    "date": "2025-01-24T00:02:13.734Z",
+    "exactDate": "2025-01-24T00:02:14.868Z",
+    "vacancy": "Backend",
+    "experience": "between1And3",
+    "vacancyCount": 2351
+  }
+]
