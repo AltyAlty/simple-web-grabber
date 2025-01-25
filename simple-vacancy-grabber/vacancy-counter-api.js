@@ -23,5 +23,5 @@ export const vacancyCounter = {
         const result = await (await fetch(url)).json();
         /*Из найденных данных возвращаем свойство "found".*/
         return result.found;
-    },
+    }
 };

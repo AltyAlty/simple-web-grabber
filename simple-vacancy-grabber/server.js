@@ -22,12 +22,15 @@ const __filename = fileURLToPath(import.meta.url);
 к его родительской директории. Получаем путь до директории текущего файла.*/
 const __dirname = `${path.dirname(__filename)}/collected_data`;
 
+/*При помощи метода "http.createServer()" создаем экземпляр сервера.*/
 const server = http.createServer((req, res) => {
     let filePath;
 
-    // Определяем, какой файл запрашивается на основе URL
+    /*Определяем, какой файл запрашивается на основе URL.*/
     switch (req.url) {
         case '/frontend-frameworks-data':
+            /*Метод "path.join()" - это метод из встроенного модуля "path" в Node.js. Он используется для объединения
+            нескольких сегментов пути в один полный путь.*/
             filePath = path.join(__dirname, 'frontend-frameworks-data.json');
             break;
         case '/web-areas-data':
@@ -42,10 +45,16 @@ const server = http.createServer((req, res) => {
             return;
     }
 
-    // Читаем файл и отправляем его в ответ
+    /*Метод "fs.readFile()" - это метод из встроенного модуля "fs" в Node.js, который используется для чтения
+    содержимого файла. Читаем файл и пытаемся его отправить.*/
     fs.readFile(filePath, (err, data) => {
         if (err) {
+            /*Метод "res.writeHead()" является методом в Node.js, который используется для установки заголовков
+            HTTP-ответа.*/
             res.writeHead(500);
+            /*Метод "res.end()" - это метод в Node.js, который используется для завершения HTTP-ответа. Он сигнализирует
+            о том, что все данные, которые необходимо отправить клиенту, были отправлены. После вызова этого метода
+            сервер больше не может отправлять дополнительные данные в этом ответе.*/
             res.end('Error loading file');
         } else {
             res.writeHead(200, {
@@ -58,4 +67,6 @@ const server = http.createServer((req, res) => {
     });
 });
 
+/*Метод "listen()" запускает сервер и начинает прослушивание входящих запросов на указанном порту. Второй аргумент этого
+метода - это callback-функция, которая будет выполнена, когда сервер успешно начнет прослушивание.*/
 server.listen(3000, () => { console.log('Server running at http://localhost:3000')});
