@@ -376,5 +376,47 @@
     "vacancy": "Python",
     "experience": "between1And3",
     "vacancyCount": 4464
+  },
+  {
+    "date": "2025-02-21T18:03:49.754Z",
+    "exactDate": "2025-02-21T18:03:49.754Z",
+    "vacancy": "JavaScript",
+    "experience": "between1And3",
+    "vacancyCount": 2891
+  },
+  {
+    "date": "2025-02-21T18:03:49.754Z",
+    "exactDate": "2025-02-21T18:03:50.919Z",
+    "vacancy": "TypeScript",
+    "experience": "between1And3",
+    "vacancyCount": 1355
+  },
+  {
+    "date": "2025-02-21T18:03:49.754Z",
+    "exactDate": "2025-02-21T18:03:52.063Z",
+    "vacancy": "C#",
+    "experience": "between1And3",
+    "vacancyCount": 1355
+  },
+  {
+    "date": "2025-02-21T18:03:49.754Z",
+    "exactDate": "2025-02-21T18:03:53.212Z",
+    "vacancy": "Java",
+    "experience": "between1And3",
+    "vacancyCount": 2136
+  },
+  {
+    "date": "2025-02-21T18:03:49.754Z",
+    "exactDate": "2025-02-21T18:03:54.432Z",
+    "vacancy": "C++",
+    "experience": "between1And3",
+    "vacancyCount": 1365
+  },
+  {
+    "date": "2025-02-21T18:03:49.754Z",
+    "exactDate": "2025-02-21T18:03:55.604Z",
+    "vacancy": "Python",
+    "experience": "between1And3",
+    "vacancyCount": 5277
   }
 ]

@@ -124,5 +124,19 @@
     "vacancy": "Backend",
     "experience": "between1And3",
     "vacancyCount": 2351
+  },
+  {
+    "date": "2025-02-21T18:03:47.424Z",
+    "exactDate": "2025-02-21T18:03:47.424Z",
+    "vacancy": "Frontend",
+    "experience": "between1And3",
+    "vacancyCount": 2053
+  },
+  {
+    "date": "2025-02-21T18:03:47.424Z",
+    "exactDate": "2025-02-21T18:03:48.549Z",
+    "vacancy": "Backend",
+    "experience": "between1And3",
+    "vacancyCount": 2069
   }
 ]

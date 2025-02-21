@@ -187,5 +187,26 @@
     "vacancy": "Angular",
     "experience": "between1And3",
     "vacancyCount": 773
+  },
+  {
+    "date": "2025-02-21T18:03:43.861Z",
+    "exactDate": "2025-02-21T18:03:43.861Z",
+    "vacancy": "React",
+    "experience": "between1And3",
+    "vacancyCount": 1715
+  },
+  {
+    "date": "2025-02-21T18:03:43.861Z",
+    "exactDate": "2025-02-21T18:03:45.153Z",
+    "vacancy": "Vue",
+    "experience": "between1And3",
+    "vacancyCount": 1242
+  },
+  {
+    "date": "2025-02-21T18:03:43.861Z",
+    "exactDate": "2025-02-21T18:03:46.302Z",
+    "vacancy": "Angular",
+    "experience": "between1And3",
+    "vacancyCount": 741
   }
 ]
